@@ -1,0 +1,2 @@
+[functions.update-admin-username]
+verify_jwt = true
