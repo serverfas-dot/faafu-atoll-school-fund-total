@@ -13,7 +13,6 @@
   font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
   line-height: 1.5;
   color: var(--neutral-900);
-  background: var(--neutral-50);
   -webkit-font-smoothing: antialiased;
 }
 
@@ -93,6 +92,7 @@ h1 {
   display: grid;
   place-items: center;
   padding: 24px;
+  background: var(--neutral-50);
 }
 
 .admin-card {
